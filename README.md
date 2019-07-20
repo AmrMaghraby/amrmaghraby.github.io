@@ -1,37 +1,9 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# GSoC_2019_Red_Hen_Lab
+This repo. will contain my project with Red Hen Lab during this summer 2019
+I am going to participate in two projects 
+First one will be OCR :
+OCR is a very wide application which translates characters in the image to an editable format. OCR on television news shows would recognize any text appear on a screen and translate this text to editable formate at one-second intervals. During OCR development some challenges appear, one of these challenges is to detect duplication if text repeats in successive frames, the application will handle this case. Another challenge is to see if it is time to make space between words or not (i.e. space detection) as the output may be all words concatenated together and space some times not detectable in frames. My work will be based on CNN and BLSTM VS open source libraries the best accuracy will be deployed. The project will be deployed on HPC machines using Singularity containers.
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+Second project will be also done an enhancement on ASR (Automatic speech recognition) which is done last year by Ahmed Ismail. This project will be trained on a new dataset and new modification to the architecture may be done (if required ) to increase it is accuracy.
 
-## Demo
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
-
-The main page would look like this:
-
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
-
-## License
-
-GNU General Public License v3.0
-
-## Donate
-
-<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
-<p>Either way, your support is a way to thank me ❤️</p>
-<p align="center"><b>Thank you for your support!</b></p>
