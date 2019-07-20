@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Google Summer Of Code 2019 Week 1
-date: 2017-09-12 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+title: Proposal Process
+date: 2017-02-1 13:32:20 +0300
+description: This post descripe the process I took for building my proposal with Red Hen Lab starting from Feburary 2019 till May 2019
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
