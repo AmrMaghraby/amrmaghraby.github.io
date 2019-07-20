@@ -28,3 +28,5 @@ Following my timeline :
 
 4: After several weeks Red Hen Lab stated their projects recommended on students in that summer, one of them was OCR on vedioes (very close to my skills). I started to read several papers to choose which one will be implemented in that projects, and I have searched for the data set to be chosen for training.
 
+
+I will be posting here my updates as I make updates. Stay Tuned!!
