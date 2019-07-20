@@ -3,7 +3,7 @@ layout: post
 title: Google Summer Of Code '19 [The Application Process]
 date: 2019-02-1 13:32:20 +0300
 description: This post descripe the process I took for building my proposal with Red Hen Lab starting from Feburary 2019 till May 2019
-img: i-rest.jpg # Add image post (optional)
+img:  software.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Prerequiste, Documentation]
 ---
