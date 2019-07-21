@@ -14,7 +14,7 @@ In week 2 I have implemented a Geo map successfully, which predicts the four coo
 
 This code has been trained on anther small data set (showcase model) Minist numbers to predict the numbers on rotated un-clear images.
 
-
+Stay tuned for next week progress.
 
 
 
