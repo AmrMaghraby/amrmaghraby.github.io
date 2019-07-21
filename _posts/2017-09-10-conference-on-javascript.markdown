@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conference on Javascript
+title: GSoC'19 Week 3
 date: 2017-05-11 00:00:00 +0300
 description: # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
