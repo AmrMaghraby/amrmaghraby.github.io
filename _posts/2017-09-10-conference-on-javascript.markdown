@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GSoC'19 Week 2 - 4
-date: 2019-29-07 00:00:00 +0300
+date: 2019-07-29 00:00:00 +0300
 description: # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
 tags: [Js, Conference] # add tag
