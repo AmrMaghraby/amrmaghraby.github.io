@@ -14,7 +14,7 @@ Currently in week 8 Arabic language is added but still facing some problems with
 
 Working on HPC and solving interior problems like input/output directories.
 Commands To follow to launch OCR on videos : 
-singularity shell -B /mnt/rds/redhen/gallina/home/aam193/Input:/mnt/ new-sif
+singularity shell -B /mnt/rds/redhen/gallina/home/aam193/Input:/mnt/ OCR-sif
 python3 /opt/Convert.py
 cd E2E-MLT
 python3 eval2.py
