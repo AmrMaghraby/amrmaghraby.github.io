@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GSoC'19 Week 8 - Week 11
-date: 2019-07-16 13:32:20 +0300
+date: 2019-18-08 13:32:20 +0300
 description: #hhjhhh 
 img: how-to-start.jpg 
 ---
